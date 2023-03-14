@@ -3,4 +3,6 @@ Useful stuff or shit, you decide.
 
 [WEBSITES](websites.md)
 
-[PROGRAMS](https://google.com)
+[PROGRAMS](programs.md)
+
+[my s](my-s.md)
