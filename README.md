@@ -6,3 +6,5 @@ Useful stuff or shit, you decide.
 [PROGRAMS](programs.md)
 
 [my s](my-s.md)
+
+[tags](tags.md)
