@@ -1,3 +1,15 @@
-Use these to find s easily
+Media
 
-#scripts #ai #videos #tutorials #blog #vectors #illustrations #mockups #templates #photos #fonts #texteffects #backgrounds #textures #patterns #icons #prints #webs #palettes #models #plugins 
+#backgrounds #illustrations #patterns #photos #textures #vectors #videos
+
+Ui/Design
+
+#icons #mockups #prints #templates #webs 
+
+Text
+
+#fonts #texteffects 
+
+Other
+
+#ai #blog #models #palettes #plugins #scripts #tutorials
