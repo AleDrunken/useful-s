@@ -1,3 +1,5 @@
+[SINGLE GPU PASSTHROUGH KVM](single-gpu-passthrough-kvm.md)
+
 Mostly random fixes or things to lower temps/boost performance
 
 Lutris:
