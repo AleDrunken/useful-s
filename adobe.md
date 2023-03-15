@@ -1,5 +1,5 @@
 [AFTER EFFECTS](after-effects.md)
 
-[ILLUSTRATOR](illustrator)
+[ILLUSTRATOR](illustrator.md)
 
 [PHOTOSHOP](photoshop.md)
