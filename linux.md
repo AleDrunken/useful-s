@@ -1,3 +1,4 @@
+Mostly random fixes or things to lower temps/boost performance
 
 Lutris:
 1. [External dependencies](https://github.com/lutris/docs/blob/master/WineDependencies.md)
