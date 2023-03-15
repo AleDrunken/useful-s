@@ -9,6 +9,10 @@ Useful stuff or shit, you decide.
 
 [BLOGS](blogs.md)
 
+[LINUX](linux.md)
+
+[WINDOWS](windows.md)
+
 [my s](my-s.md)
 
 [tags](tags.md)
