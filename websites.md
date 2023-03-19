@@ -1,15 +1,18 @@
-
-Free assets & monthly
+# Free assets & monthly
 
 https://www.rocketstock.com/free-after-effects-templates/
 
-Monthly free assets
+---
+
+# Monthly free assets
 
 https://creativemarket.com/free-goods
 
 https://elements.envato.com/free-files
 
-Free assets
+---
+
+# Free assets
 
 https://creativeoverflow.net/category/freebies/ #tutorials #blog
 
@@ -57,8 +60,12 @@ https://www.videocopilot.net/ #blog #tutorials #plugins
 
 ---
 
-Requires signing 
+# Requires signing 
 
 https://www.freevisuals.net/
+
+---
+
+# Blogs
 
 ---
